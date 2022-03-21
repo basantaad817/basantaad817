@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/basantaad817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basantaad817" height="30" width="40" /></a>
 <a href="https://fb.com/basantaad817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basantaad817" height="30" width="40" /></a>
 <a href="https://instagram.com/basantaad817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basantaad817" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/basantaad817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="basantaad817" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4feqdM1qU_o80sRYo4wxJw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="basantaad817" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
